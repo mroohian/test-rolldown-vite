@@ -1,0 +1,16 @@
+{
+  "name": "test-rolldown-1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "serve": "vite --host --port 8080",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "https://pkg.pr.new/vitejs/rolldown-vite/vite@85"
+  }
+}
