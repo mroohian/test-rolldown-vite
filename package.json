@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "vite": "https://pkg.pr.new/vitejs/rolldown-vite/vite@85"
+    "vite": "^6.2.2"
   }
 }
